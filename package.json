@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
-    "build": "npm install preact-cli && gatsby build",
+    "build": "gatsby build",
     "serve": "gatsby serve"
   },
   "dependencies": {
@@ -13,7 +13,7 @@
     "gatsby": "^2.0.0",
     "gatsby-plugin-emotion": "^2.0.5",
     "gatsby-plugin-typography": "^2.2.0",
-    "gatsby-source-filesystem": "^1.5.32",
+    "gatsby-source-filesystem": "^1.5.3",
     "gatsby-transformer-remark": "^2.1.6",
     "preact-cli": "^2.2.1",
     "react": "^16.5.1",
