@@ -13,7 +13,7 @@
     "gatsby": "^2.0.0",
     "gatsby-plugin-emotion": "^2.0.5",
     "gatsby-plugin-typography": "^2.2.0",
-    "gatsby-source-filesystem": "^2.0.1",
+    "gatsby-source-filesystem": "^1.5.32",
     "gatsby-transformer-remark": "^2.1.6",
     "preact-cli": "^2.2.1",
     "react": "^16.5.1",
